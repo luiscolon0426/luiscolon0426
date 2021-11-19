@@ -8,5 +8,6 @@
 luiscolon0426/luiscolon0426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Currently Learning:
 
-https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg
+href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a
