@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
+
+
 - 👋 My name is Luis Colón, im 21 years old and i live in Puerto Rico.🇵🇷 
 - 👀 I’m interested in coding, music, and videogames. 
 - 🌱 I’m currently learning Software Engineering. 
