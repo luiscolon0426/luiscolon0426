@@ -1,4 +1,7 @@
-- 👋 Hi, My name is Luis Colón, im 21 years old and i live in Puerto Rico.🇵🇷 
+<h1 align="center">Hi 👋, I'm Luis</h1>
+<h3 align="center">An aspiring Software Engineer</h3>
+
+- 👋 My name is Luis Colón, im 21 years old and i live in Puerto Rico.🇵🇷 
 - 👀 I’m interested in coding, music, and videogames. 
 - 🌱 I’m currently learning Software Engineering. 
 - 🌎 I’m looking to collaborate on something that can make me go off-limits. 
