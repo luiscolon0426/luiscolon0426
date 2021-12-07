@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 
+                                                                                                                                      
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscolon0426&show_icons=true&locale=en&layout=compact&theme=radical" alt="roquesrolando" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&theme=radical" alt="luiscolon0426" /></p>
+---
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&theme=radical" alt="luiscolon0426" /></p>
