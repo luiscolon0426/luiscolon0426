@@ -9,6 +9,11 @@
 - 🌎 I’m looking to collaborate on something that can make me go off-limits. 
 - 📫 You can reach me on Twitter, or Instagram. 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://https://www.linkedin.com/in/luis-colon-567356226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiscolon0426" height="30" width="40" /></a>
+</p>
+
 <!---
 luiscolon0426/luiscolon0426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
