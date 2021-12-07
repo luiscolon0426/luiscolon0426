@@ -17,5 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a> 
 
-![GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=luiscolon0426&layout=compact&theme=algolia)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&locale=en" alt="luiscolon0426" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscolon0426&show_icons=true&locale=en&layout=compact&theme=radical" alt="roquesrolando" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&theme=radical" alt="luiscolon0426" /></p>
