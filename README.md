@@ -4,8 +4,6 @@
 ![EREN](https://user-images.githubusercontent.com/84751817/149421066-d289ccc2-dc24-4ee0-a413-8546a5fef4c7.jpg)
 
 
-   ![matrix](https://user-images.githubusercontent.com/84751817/147290172-92a88a99-cfaf-4b35-943d-8c1e53dd35f3.gif)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
