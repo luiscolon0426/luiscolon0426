@@ -32,7 +32,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 
-                                                                                                                                      
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscolon0426&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiscolon0426" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&theme=radical" alt="luiscolon0426" /></p>
+                                                                                                                                         
+## &#x1f4c8; GitHub Stats
+
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscolon0426&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiscolon0426" width=450 height=190/></p>
+
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&theme=radical" alt="luiscolon0426" width=450 height=200/></p>
+
+</br></br></br></br></br></br></br></br>
+ <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiscolon0426&theme=radical" alt="luiscolon0426" width= 450 height=200/> </p>
+</br>
+                                                                                                                                        
