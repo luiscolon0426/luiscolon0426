@@ -43,4 +43,6 @@ You can click the Preview link to take a look at your changes.
 </br></br></br></br></br></br></br></br>
  <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiscolon0426&theme=radical" alt="luiscolon0426" width= 450 height=200/> </p>
 </br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luiscolon0426&bg_color=000000&color=4fff67&line=4fff67&point=fffff&area=true&hide_border=true)
                                                                                                                                         
