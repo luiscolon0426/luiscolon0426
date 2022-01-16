@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis</h1>
+<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> I'm Luis</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
 ![EREN](https://user-images.githubusercontent.com/84751817/149421066-d289ccc2-dc24-4ee0-a413-8546a5fef4c7.jpg)
@@ -13,7 +13,7 @@
 - 🌎 I’m looking to collaborate on something that can make me go off-limits. 
 - 📫 You can reach me on Twitter, or Instagram. 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
 <a href=https://www.linkedin.com/in/luis-colon-567356226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis colon" height="30" width="40" /></a>
 <a href="https://twitter.com/luiscolon0426"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" height="30" width="40" /></a>
