@@ -5,7 +5,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
 - 👋 My name is Luis Colón, and i live in Puerto Rico.🇵🇷 
 - 👀 I’m interested in coding, and music.
