@@ -50,4 +50,4 @@ You can click the Preview link to take a look at your changes.
                                                                                                                                         
 ---
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
