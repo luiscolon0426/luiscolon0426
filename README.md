@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&theme=radical" alt="luiscolon0426" width=400 height=180/></p>
 
 </br></br></br></br></br></br></br></br>
- <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiscolon0426&theme=radical" alt="luiscolon0426" width= 400 height=100/> </p>
+ <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiscolon0426&theme=radical" alt="luiscolon0426" width= 400 height=150/> </p>
 </br>
 
 ---
