@@ -11,7 +11,7 @@
 - 👀 I’m interested in coding, and music.
 - 🌱 I’m currently learning Software Engineering. 
 - 🌎 I’m looking to collaborate on something that can make me go off-limits. 
-- 📫 You can reach me on Twitter, or Instagram. 
+- 📫 You can reach me on Twitter, Instagram, and linkedin. 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href=https://www.linkedin.com/in/luis-colon-567356226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis colon" height="30" width="40" /></a> 
