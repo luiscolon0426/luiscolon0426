@@ -1,8 +1,6 @@
 <h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> I'm Luis</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-![EREN](https://user-images.githubusercontent.com/84751817/149421066-d289ccc2-dc24-4ee0-a413-8546a5fef4c7.jpg)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
