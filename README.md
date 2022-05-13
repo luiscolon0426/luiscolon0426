@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
                                                                                                                                                       <img src="https://cutt.ly/WDqbKiu" alt="javascript" width="50" height="50"/> </a> 
                                                                                                                                                      <img src="https://cutt.ly/hDqbvXY" alt="css3" width="50" height="50"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.nginx.com" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a>
 <img src ="https://cutt.ly/HDqbjil" alt="vscode" width="50" height="50">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50">
