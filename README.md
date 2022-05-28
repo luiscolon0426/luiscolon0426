@@ -9,10 +9,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
 
-- 👋 My name is Luis Colón, and i live in Puerto Rico.🇵🇷 
-- 👀 I’m interested in coding, and music.
-- 🌱 I’m currently learning Software Engineering. 
-- 🌎 I’m looking to collaborate on something that can make me go off-limits. 
+- 👋 My name is Luis Colón, & I live in Puerto Rico.🇵🇷 
+- 👀 I’m interested in coding, reading, & music.
+- 🌱 I’m currently learning Software Engineering.
+- 🌎 I’m always looking to collaborate on something that can make me go off-limits. 
 - 📫 You can reach me on Twitter, Instagram, and linkedin. 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
