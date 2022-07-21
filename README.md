@@ -46,6 +46,7 @@ You can click the Preview link to take a look at your changes.
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cutt.ly/2DqbVgb" alt="git" width="50" height="50"/> </a>
+ <img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 
 
                                                                                                                                          
