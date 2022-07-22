@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cutt.ly/nDqbNYR" alt="c" width="50" height="50"/> </a> 
                                                                                                                                                       <img src="https://cutt.ly/WDqbKiu" alt="javascript" width="50" height="50"/> </a> 
-                                                                                                                                                     <img src="https://cutt.ly/hDqbvXY" alt="css3" width="50" height="50"/> </a>
+ <img src="https://cutt.ly/hDqbvXY" alt="css3" width="50" height="50"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.nginx.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
