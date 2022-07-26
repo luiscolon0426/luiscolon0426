@@ -1,7 +1,7 @@
 <h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Luis</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center"><a href="mailto:luiscolon0426@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href='./LuisColonResume (1).pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
+<a href='./LCR3.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
  
  
 
