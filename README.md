@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
 
-- 👋 My name is Luis Colón, & I live in Puerto Rico.🇵🇷 
+- 👋 My name is Luis Colón, & I live in Puerto Rico.
 - 👀 I’m interested in coding, reading, & music.
 - 🌎 I’m always looking to collaborate on something that can make me go off-limits. 
 - 📫 You can reach me on Twitter, Instagram, and Linkedin.
