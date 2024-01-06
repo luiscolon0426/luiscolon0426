@@ -12,7 +12,6 @@
 - 👋 Hello! I'm Luis Colón
 - 👀 I'm passionate about coding and currently focused on React development. Additionally, I'm exploring the realms of UI/UX and product design.
 - 📫 Feel free to connect with me on Twitter, Instagram, and LinkedIn.
-- I've recently graduated from Holberton's foundation year and I've also worked as a Student Tutor. <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <a href=https://www.linkedin.com/in/luis-colon-567356226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis colon" height="30" width="40" /></a> 
