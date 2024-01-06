@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
 
-- 👋 Hello! I'm Luis Colón, a resident of Puerto Rico.
+- 👋 Hello! I'm Luis Colón
 - 👀 I'm passionate about coding and currently focused on React development. Additionally, I'm exploring the realms of UI/UX and product design.
 - 📫 Feel free to connect with me on Twitter, Instagram, and LinkedIn.
 - I've recently graduated from Holberton's foundation year and I've also worked as a Student Tutor. <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
