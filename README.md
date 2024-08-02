@@ -1,5 +1,7 @@
 <h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Luis</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
+<h3 align="center">Web Developer</h3>
+<h3 align="center">UI UX Designer</h3>
 <h3 align="center"><a href="mailto:luiscolon0426@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='./LCR5.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
  
@@ -9,7 +11,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
 
-- 👋 Hello! I'm Luis Colón
 - Dynamic Software Engineer with 3+ years in web development, specializing in React, React Native, and JavaScript. Proven in enhancing UIs and modernizing codebases. Certified in Full Stack Engineering and UI/UX design. Bilingual in English and Spanish. Ready for a new challenge!
 - 📫 Feel free to connect with me on Twitter, Instagram, and LinkedIn.
 
