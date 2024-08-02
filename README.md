@@ -10,7 +10,7 @@
 
 
 - 👋 Hello! I'm Luis Colón
-- 👀 I'm passionate about coding and currently focused on React development. Additionally, I'm exploring the realms of UI/UX and product design.
+- Dynamic Software Engineer with 3+ years in web development, specializing in React, React Native, and JavaScript. Proven in enhancing UIs and modernizing codebases. Certified in Full Stack Engineering and UI/UX design. Bilingual in English and Spanish. Ready for a new challenge!
 - 📫 Feel free to connect with me on Twitter, Instagram, and LinkedIn.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
