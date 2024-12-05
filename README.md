@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
 
-- Dynamic Software Engineer with 3+ years in web development, specializing in React, React Native, and JavaScript. Proven in enhancing UIs and modernizing codebases. Certified in Full Stack Engineering and UI/UX design. Bilingual in English and Spanish. Ready for a new challenge!
+- Dynamic Software Engineer, web developer, specializing in React, React Native, and JavaScript. Proven in enhancing UIs and modernizing codebases. Certified in Full Stack Engineering and UI/UX design. Bilingual in English and Spanish. Ready for a new challenge!
 - 📫 Feel free to connect with me on Twitter, Instagram, and LinkedIn.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
