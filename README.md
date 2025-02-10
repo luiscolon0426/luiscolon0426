@@ -9,14 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
 
 
-- Dynamic Software Engineer, web developer, specializing in React, React Native, and JavaScript. Proven in enhancing UIs and modernizing codebases. Certified in Full Stack Engineering and UI/UX design. Bilingual in English and Spanish. Ready for a new challenge!
-- 📫 Feel free to connect with me on Twitter, Instagram, and LinkedIn.
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
-<a href=https://www.linkedin.com/in/luis-colon-567356226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis colon" height="30" width="40" /></a> 
-<a href="https://twitter.com/luiscolon0426"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" height="30" width="40" /></a> 
-<a href="https://instagram.com/luislcolon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
- 
 </p>
 
 <!---
