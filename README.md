@@ -1,64 +1,147 @@
-<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Luis</h1>
-<h3 align="center">Full Stack Software Engineer | Web Developer | UI UX Designer</h3>
-<h3 align="center"><a href="mailto:luiscolon0426@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href='./Luis Resume.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
- 
- 
+<h1 align="center">
+  Hey there 👋 I'm Luis Colon
+</h1>
 
+<h3 align="center">
+  Full Stack Software Engineer • UI/UX Developer • Problem Solver
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscolon0426&label=Profile%20views&color=0e75b6&style=flat" alt="luiscolon0426" /> </p>
-
-
-
+<p align="center">
+  Building scalable web apps, modern UI experiences, and developer-focused solutions.
 </p>
 
-<!---
-luiscolon0426/luiscolon0426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2> Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
-<p align='left'>
+<p align="center">
+  <a href="mailto:luiscolon0426@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  
+  <a href="./Luis Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme">
+  </a>
 
- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cutt.ly/nDqbNYR" alt="c" width="50" height="50"/> </a> 
-                                                                                                                                                      <img src="https://cutt.ly/WDqbKiu" alt="javascript" width="50" height="50"/> </a>
- <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" width="45" height="45">
- <img src="https://cutt.ly/hDqbvXY" alt="css3" width="50" height="50"/> </a>
-<a href="https://www.vagrantup.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.nginx.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<img width ='50' height="50" src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
-<img width ='50' height="50" src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a> 
-
-<h2> Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
-<p align='left'>
-
-<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a>
-<img src ="https://cutt.ly/HDqbjil" alt="vscode" width="50" height="50">
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cutt.ly/2DqbVgb" alt="git" width="50" height="50"/> </a>
- <img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-                                                                                   
-
-
-                                                                                                                                         
-## &#x1f4c8; GitHub Stats
-
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscolon0426&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiscolon0426" width=400 height=180/></p>
-
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&theme=radical" alt="luiscolon0426" width=400 height=180/></p>
-
-</br></br></br></br></br></br></br></br>
- <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiscolon0426&theme=radical" alt="luiscolon0426" width= 400 height=150/> </p>
-</br>
+  <a href="https://github.com/luiscolon0426">
+    <img src="https://img.shields.io/github/followers/luiscolon0426?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luiscolon0426&bg_color=000000&color=4fff67&line=4fff67&point=fffff&area=true&hide_border=true)
-                                                                                                                                        
+# 🚀 About Me
+
+- 💻 Full Stack Software Engineer focused on modern web applications
+- 🎨 Passionate about UI/UX design and frontend architecture
+- ⚡ Experienced with scalable frontend systems using Angular, React, and Tailwind
+- 🛠 Currently rebuilding and refactoring large-scale applications
+- 📚 Constantly learning new technologies and improving developer workflows
+
 ---
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+# 🧠 Tech Stack
+
+## Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,reactivex,nextjs,angular,vue,ts,js,html,css,tailwind,bootstrap,scss" />
+</p>
+
+## Backend & Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,graphql,aws,kotlin,swift,java,c,mysql" />
+</p>
+
+## Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,trello,jira,bash" />
+</p>
+
+## Additional Technologies
+
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="Cypress"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/insomnia.svg" width="48" height="48" alt="Insomnia"/>
+
+  <img src="https://avatars.githubusercontent.com/u/5072139?s=200&v=4" width="48" height="48" alt="REST API"/>
+
+  <img src="https://trpc.io/img/logo.svg" width="48" height="48" alt="tRPC"/>
+
+</p>
+---
+
+# 🔥 Current Focus
+
+- Building scalable Angular applications
+- UI/UX systems with Tailwind CSS
+- Full-stack architecture with Laravel + React
+- Developer tooling & productivity systems
+- Performance optimization and clean code practices
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=luiscolon0426&show_icons=true&theme=transparent&hide_border=true"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscolon0426&layout=compact&theme=transparent&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=luiscolon0426&theme=transparent&hide_border=true"
+    height="180"
+  />
+</p>
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=luiscolon0426&theme=github-dark&hide_border=true"
+    width="95%"
+  />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 🚀 Cheadoc
+A QuickRef-style developer cheatsheet platform built with Next.js and Tailwind CSS.
+
+### 🩺 Healthcare Platform
+Modern healthcare-focused web applications with scalable frontend architecture.
+
+### 🔍 Chivito
+A service finder platform connecting users with local service providers.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:luiscolon0426@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://github.com/luiscolon0426">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ “Great software is built where design, engineering, and user experience meet.”
+</p>
